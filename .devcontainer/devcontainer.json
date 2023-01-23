@@ -14,7 +14,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "sls requirements install",
+	"postCreateCommand": "sls requirements install",
 
 	// Configure tool-specific properties.
 	// "customizations": {},
